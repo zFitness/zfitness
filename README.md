@@ -1,7 +1,7 @@
 ## Hey 👋, I'm zfitness  
 
 
-- A Web engineer
+- A Full Stack engineer
 
 - Enjoy Coding and Fitness
 
