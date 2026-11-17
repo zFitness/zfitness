@@ -13,7 +13,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,ts,java,spring,mysql,kotlin,androidstudio,cpp" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,java,spring,mysql,kotlin,androidstudio,cpp,cmake,linux,git,docker" />
 </p>
 
 ### 📊 GitHub Stats
